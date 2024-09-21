@@ -13,7 +13,7 @@ const datas=[
         "Email": "jarjun154@gmail.com",
         "project": "Determination of dynamic soil parameter using cyclic triaxial test ",
         "Photo":arjun,
-        "Software":["PLAXIS-(2D&3D)","STAAD-Pro", "AutoCAD"],
+        "Software":["PLAXIS(2D&3D)","STAAD-Pro", "AutoCAD"],
         "Resume":"https://drive.google.com/file/d/1xZtLn5BOjeeBXleXqZnPDT3AR_xMT-Co/view?usp=sharing",
     },
     {
@@ -21,7 +21,7 @@ const datas=[
         "Email": "@gmail.com",
         "project": " ",
         "Photo":"../db/images/suvrakamal.jpg",
-        "Software":["ABAQUS", "PLAXIS-(2D&3D)"],
+        "Software":["ABAQUS", "PLAXIS(2D&3D)"],
         "Resume":"",
     },
     
@@ -37,21 +37,21 @@ const datas=[
         "Email": "adityaroy19991012@gmail.com",
         "project": "Effect of foundation width on N in dilative sands considering stress level dependency of peak friction angle and dilation angle ",
         "Photo":aditya,
-        "Software":["Optum G2", "PLAXIS-(2D&3D)","MATLAB", "MS Word,", "MS Excel" , "Pyhton"],
+        "Software":["Optum G2", "PLAXIS(2D&3D)","MATLAB", "MS Word,", "MS Excel" , "Pyhton"],
         "Resume":"https://drive.google.com/file/d/11TBELXrMSe04Jts7gsp48HmaYsFw48-q/view?usp=sharing",
     }, {
         "Name": "Chukkala Leela Ravali",
         "Email": "leelaravalichukkala@gmail.com",
         "project": "Stone Column Under Machine Foundation ",
         "Photo":ravali,
-        "Software":["STAAD-Pro", "PLAXIS-(2D&3D)", "AutoCAD", "Tekla" , "ERDAS", "D-Stability","Settle-D", "Python"],
+        "Software":["STAAD-Pro", "PLAXIS(2D&3D)", "AutoCAD", "Tekla" , "ERDAS", "D-Stability","Settle-D", "Python"],
         "Resume":"https://drive.google.com/file/d/1QqcIp3_R_vpJz_FrGUcDZfUgKOCJfOjn/view?usp=sharing",
     },{
         "Name": "Konnuru Pavan Kumar",
         "Email": "pavankonnuru@kgpian.iitkgp.ac.in",
         "project": "Effect of Particle shape and size on Cyclic Behaviour of Sand using Shake Table Test.",
         "Photo":pavan,
-        "Software":["PLAXIS-(2D&3D)","MATLAB","Microsoft Office","STAAD-Pro", "AutoCAD"],
+        "Software":["PLAXIS(2D&3D)","MATLAB","Microsoft Office","STAAD-Pro", "AutoCAD"],
         "Resume":"https://drive.google.com/file/d/1jPV9JbP7mAKpxg-A4zlGlBE9xi01rlbl/view?usp=sharing",
     },{
         "Name": "Saswata Bhattacharya",
@@ -63,9 +63,9 @@ const datas=[
     },{
         "Name": "Souvik Ghosh",
         "Email": "souvikghosh734@gmail.com",
-        "project": "Analysis and Behaviour of Shallow Embedded Foundations with Tunnel using Lower Bound Finite Element Limit Analysis",
+        "project": "Study on Behaviour of Shallow Embedded Foundations with Tunnel Proximity using Lower Bound Finite Element Limit Analysis",
         "Photo":souvik,
-        "Software":["MATLAB", "PLAXIS-(2D&3D)", "Optum-G2", "GeoStudio" , "C++", "Python"],
+        "Software":["MATLAB", "PLAXIS(2D&3D)", "Optum-G2", "GeoStudio" , "C++", "Python"],
         "Resume":"https://drive.google.com/file/d/1uSawCW7CVdTHHLgKVU-BDMv86DQEYRST/view?usp=sharing",
     },{
         "Name": "Venkata Thanmai",
