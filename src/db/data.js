@@ -42,7 +42,7 @@ const datas=[
     }, {
         "Name": "Chukkala Leela Ravali",
         "Email": "leelaravalichukkala@gmail.com",
-        "project": "3D Kinematic limit analysis of slope reinforced with piles ",
+        "project": "Stone Column Under Machine Foundation ",
         "Photo":ravali,
         "Software":["STAAD-Pro", "PLAXIS-(2D&3D)", "AutoCAD", "Tekla" , "ERDAS", "D-Stability","Settle-D", "Python"],
         "Resume":"https://drive.google.com/file/d/1QqcIp3_R_vpJz_FrGUcDZfUgKOCJfOjn/view?usp=sharing",
@@ -95,7 +95,7 @@ const course = [
     }
        
 ];
-const notable=["SPT","CPTu","Pressuremeter Testing","Sampling Techniques & Disturbances","Field Vane Shear Test","SASW","CSW","MASW",'Lateral Pile Load test', "Vertical Anchors"]
+const notable=["SPT","CPTu","Pressuremeter Testing","Sampling Techniques & Disturbances","Field Vane Shear Test","SASW","CSW","MASW",'Laterally Loaded Pile', "Vertical Anchors","Reflection/Refraction Survey","Finite Element Method", "Finite Difference Method"]
 
 export { course, datas, notable };
 
