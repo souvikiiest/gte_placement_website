@@ -7,12 +7,12 @@ const Coursework = () => {
   return (
     <div className="bg-white min-h-screen py-10">
       <div className="max-w-7xl mx-auto px-6">
-        <h1 className="text-4xl font-bold text-center mb-10">Departmental Coursework</h1>
+        <h1 className="text-4xl font-bold text-center mb-10">M.Tech Coursework</h1>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
 
           <div className="p-6 bg-blue-100 rounded-lg shadow-lg">
-            <h2 className="text-3xl font-semibold mb-4">Courses Undertaken (Semester 1):</h2>
+            <h2 className="text-3xl font-semibold mb-4">Semester 1:</h2>
             <ul className="list-disc list-inside text-gray-700">
               {sem1.map((course, index) => (
                 <li key={index} className="mb-2 text-xl">{course}</li>
@@ -30,7 +30,7 @@ const Coursework = () => {
           </div>
 
           <div className="p-6 bg-purple-100 rounded-lg shadow-lg">
-            <h2 className="text-3xl font-semibold mb-4">Courses Undertaken (Semester 2):</h2>
+            <h2 className="text-3xl font-semibold mb-4">Semester 2:</h2>
             <ul className="list-disc list-inside text-gray-700">
               {sem2.map((course, index) => (
                 <li key={index} className="mb-2 text-xl">{course}</li>
