@@ -1,12 +1,13 @@
 import aditya from "../db/images/aditya.jpg";
 import arjun from "../db/images/arjun.jpg";
 import avikal from "../db/images/avikal.jpg";
+import gautham from "../db/images/gautam.jpg";
 import pavan from "../db/images/pavan.jpg";
 import ravali from "../db/images/ravali.jpg";
 import saswata from "../db/images/saswata.jpg";
 import souvik from "../db/images/souvik.jpg";
 import suvra from "../db/images/suvrakamal.jpg";
-
+import thanmai from "../db/images/thanmai.jpg";
 const datas=[
     {
         "Name": "Jadhav Arjun",
@@ -17,12 +18,12 @@ const datas=[
         "Resume":"https://drive.google.com/file/d/1xZtLn5BOjeeBXleXqZnPDT3AR_xMT-Co/view?usp=sharing",
     },
     {
-        "Name": "Gautham Namburi",
-        "Email": "@gmail.com",
-        "project": " ",
-        "Photo":"../db/images/suvrakamal.jpg",
-        "Software":["ABAQUS", "PLAXIS(2D&3D)"],
-        "Resume":"",
+        "Name": "Namburi Gowtham",
+        "Email": "gowthamvarma@kgpian.iitkgp.ac.in",
+        "project": "Estimation of buoyancy factor during inclined lateral breakout of on-bottom pipelines in clay",
+        "Photo":gautham,
+        "Software":["ABAQUS", "MATLAB", "STAADPro", "PLAXIS 2D", "MS Excel", "Python"],
+        "Resume":"https://drive.google.com/file/d/1430nUxNi2ed455TdgNd7FIYOHLGM6xCH/view?usp=sharing",
     },
     
     {
@@ -68,12 +69,12 @@ const datas=[
         "Software":["MATLAB", "PLAXIS(2D&3D)", "Optum-G2", "GeoStudio" , "C++", "Python"],
         "Resume":"https://drive.google.com/file/d/1uSawCW7CVdTHHLgKVU-BDMv86DQEYRST/view?usp=sharing",
     },{
-        "Name": "Venkata Thanmai",
-        "Email": "@gmail.com",
-        "project": " ",
-        "Photo":"../db/images/suvrakamal.jpg",
-        "Software":["STAAD-Pro", "PLAXIS-(2D&3D)"],
-        "Resume":"",
+        "Name": "Vemareddy Venkata Thanmai",
+        "Email": "thanmaivemareddy@gmail.com",
+        "project": "Application of Geocell Reinforced-Steel slag waste for construction of roads on clay subgrade",
+        "Photo":thanmai,
+        "Software":["PLAXIS 2D", "PLAXIS 3D", "SLIDE", "STAADPRO", "ABAQUS", "ARC GIS" , "AUTOCAD", "MACSTAR"],
+        "Resume":"https://drive.google.com/file/d/1uAzhJwnakuvU4U_EURL2afdlnWgb_CJ7/view?usp=sharing",
     },{
      "Name": "Suvra Kamal Das",
         "Email": "suvrakamal@gmail.com",
